@@ -1,0 +1,12 @@
+{
+  "name": "healing-demo",
+  "version": "1.0.0",
+  "description": "Minimal modern JS repo for testing the Self-Healing Platform end-to-end",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.8"
+  }
+}
